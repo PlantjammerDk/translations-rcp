@@ -2,7 +2,8 @@
   "general": {
     "goToRecipe": "Se opskrift",
     "home": "Hjem",
-    "min": "min"
+    "min": "min",
+    "refresh": "Refresh"
   },
   "substitution": {
     "mandatory": "påkrævet"

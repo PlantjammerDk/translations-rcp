@@ -2,7 +2,15 @@
   "general": {
     "goToRecipe": "See recipe",
     "home": "home",
-    "min": "min"
+    "min": "min",
+    "refresh": "Refresh",
+    "loading": "Loading"
+  },
+  "progressBar": {
+    "step1": "Select recipe",
+    "step2": "Change ingredients",
+    "step3": "See recipe",
+    "step4": "Save & send"
   },
   "substitution": {
     "mandatory": "mandatory"
