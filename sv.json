@@ -1,0 +1,30 @@
+{
+  "general": {
+    "goToRecipe": "",
+    "home": "",
+    "min": ""
+  },
+  "substitution": {
+    "mandatory": ""
+  },
+  "substitutions": {
+    "title": "",
+    "subtitle": "",
+    "subtitleButton": "",
+    "resetButton": ""
+  },
+  "whatsSubstitutes": {
+    "title": "",
+    "textStart": "",
+    "textRest": "",
+    "example": "",
+    "back": "",
+    "ingredient1": "",
+    "ingredient2": ""
+  },
+  "matchChip": {
+    "rating1": "",
+    "rating2": "",
+    "rating3": ""
+  }
+}
