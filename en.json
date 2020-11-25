@@ -2,9 +2,20 @@
   "general": {
     "goToRecipe": "See recipe",
     "home": "home",
-    "min": "min",
-    "refresh": "Refresh",
-    "loading": "Loading"
+    "min": "min"
+  },
+  "recipeCollection": {
+
+  },
+  "recipe": {
+    "title": "Your unique recipe",
+    "subTitle": "Save it by giving it a like & e-mail it to someone",
+    "changeButton": "Change ingredients",
+    "changeButtonDesktop": "Twist it",
+    "portion": "Portion",
+    "portions": "Portions",
+    "grams": "grams",
+    "showGrams": "Show grams"
   },
   "progressBar": {
     "step1": "Select recipe",
@@ -24,7 +35,7 @@
   "whatsSubstitutes": {
     "title": "How do substitutes work?",
     "textStart": "This is where the magic happens",
-    "textRest": "and we create dynamic recipes. If you don’t have/like ingredients that the recipe is asking for, we’ll make it easy to you by suggesting other ingredients that also work. The substitutions we suggest are graded by how well they match, but don’t worry, we never suggest ingredients that are bad matches - just 'less good' than the others.",
+"textRest": "and we create dynamic recipes. If you don’t have/like ingredients that the recipe is asking for, we’ll make it easy to you by suggesting other ingredients that also work. The substitutions we suggest are graded by how well they match, but don’t worry, we never suggest ingredients that are bad matches - just 'less good' than the others.",
     "example": "Example: an egg can be subsituted with",
     "back": "Go back",
     "ingredient1": "Chia seeds",
