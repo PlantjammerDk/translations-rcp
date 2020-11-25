@@ -1,0 +1,30 @@
+{
+  "general": {
+    "goToRecipe": "Se opskrift",
+    "home": "Hjem",
+    "min": "min"
+  },
+  "substitution": {
+    "mandatory": "påkrævet"
+  },
+  "substitutions": {
+    "title": "Fleksible ingredienser",
+    "subtitle": "Klik på en ingrediens og se dens alternativer",
+    "subtitleButton": "Hvad er udskiftelige ingredienser?",
+    "resetButton": "Nulstil ingredienser"
+  },
+  "whatsSubstitutes": {
+    "title": "Hvordan virker udskiftelige ingredienser?",
+    "textStart": "Det er her magien sker",
+    "textRest": "",
+    "example": "Eksempel: Et æg kan substitueres med",
+    "back": "Tilbage",
+    "ingredient1": "Chia frø",
+    "ingredient2": ""
+  },
+  "matchChip": {
+    "rating1": "Godt",
+    "rating2": "OK",
+    "rating3": "Modig"
+  }
+}
