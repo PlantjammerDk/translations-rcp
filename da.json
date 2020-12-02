@@ -3,7 +3,29 @@
     "goToRecipe": "Se opskrift",
     "home": "Hjem",
     "min": "min",
-    "refresh": "Refresh"
+    "by": "Af",
+    "loading": "Loader",
+    "refresh": "Opdater"
+  },
+  "recipeCollection": {
+    "listTitle": "Vores opskrifter",
+    "recipes": "opskrifter"
+  },
+  "recipe": {
+    "title": "Din unikke opskrift",
+    "subTitle": "Gem opskriften ved at give den it like og e-mail den til en ven",
+    "changeButton": "Ændre ingredienser",
+    "changeButtonDesktop": "Twist",
+    "portion": "Portion",
+    "portions": "Portioner",
+    "grams": "gram",
+    "showGrams": "Vis gram"
+  },
+  "progressBar": {
+    "step1": "Vælg opskrift",
+    "step2": "Ændre ingredienser",
+    "step3": "Se opskrift",
+    "step4": "Gem & send"
   },
   "substitution": {
     "mandatory": "påkrævet"
@@ -11,20 +33,20 @@
   "substitutions": {
     "title": "Fleksible ingredienser",
     "subtitle": "Klik på en ingrediens og se dens alternativer",
-    "subtitleButton": "Hvad er udskiftelige ingredienser?",
+    "subtitleButton": "Hvad er fleksible ingredienser?",
     "resetButton": "Nulstil ingredienser"
   },
   "whatsSubstitutes": {
     "title": "Hvordan virker udskiftelige ingredienser?",
     "textStart": "Det er her magien sker",
-    "textRest": "and we create dynamic recipes. If you don’t have/like ingredients that the recipe is asking for, we’ll make it easy to you by suggesting other ingredients that also work. The substitutions we suggest are graded by how well they match, but don’t worry, we never suggest ingredients that are bad matches - just 'less good' than the others.",
+    "textRest": "og hvor de dynamiske opskrifter laves. Hvis du ikke har eller kan lide en af ingredienserne i opskrifter foreslår vi alternativer der også vil virke i din opskift. Alternativerne foreslås efter hvad der er det bedste match, men bare rolig vi foreslår kun ingredienser der kan bruges - det kalder vi fleksible ingredienser!",
     "example": "Eksempel: Et æg kan substitueres med",
     "back": "Tilbage",
-    "ingredient1": "Chia frø",
-    "ingredient2": "Flax seeds"
+    "ingredient1": "Chiafrø",
+    "ingredient2": "Hørfrø"
   },
   "matchChip": {
-    "rating1": "Godt",
+    "rating1": "God",
     "rating2": "OK",
     "rating3": "Modig"
   }

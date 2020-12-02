@@ -2,7 +2,30 @@
   "general": {
     "goToRecipe": "See recipe",
     "home": "home",
-    "min": "min"
+    "min": "min",
+    "by": "By",
+    "loading": "Loading",
+    "refresh": "Refresh"
+  },
+  "recipeCollection": {
+    "listTitle": "Our recipes",
+    "recipes": "recipes"
+  },
+  "recipe": {
+    "title": "Your unique recipe",
+    "subTitle": "Save it by giving it a like & e-mail it to someone",
+    "changeButton": "Change ingredients",
+    "changeButtonDesktop": "Twist it",
+    "portion": "Portion",
+    "portions": "Portions",
+    "grams": "grams",
+    "showGrams": "Show grams"
+  },
+  "progressBar": {
+    "step1": "Select recipe",
+    "step2": "Change ingredients",
+    "step3": "See recipe",
+    "step4": "Save & send"
   },
   "substitution": {
     "mandatory": "mandatory"
