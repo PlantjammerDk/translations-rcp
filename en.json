@@ -5,7 +5,9 @@
     "min": "min",
     "by": "By",
     "loading": "Loading",
-    "refresh": "Refresh"
+    "refresh": "Refresh",
+    "myRecipes": "My Recipes",
+    "account": "Account"
   },
   "recipeCollection": {
     "listTitle": "Our recipes",
@@ -20,6 +22,9 @@
     "portions": "Portions",
     "grams": "grams",
     "showGrams": "Show grams"
+  },
+  "recipeSteps": {
+    "instructions": "Instructions"
   },
   "progressBar": {
     "step1": "Select recipe",
@@ -46,6 +51,7 @@
     "ingredient2": "Flax seeds"
   },
   "matchChip": {
+    "rating0": "",
     "rating1": "Great",
     "rating2": "Good",
     "rating3": "Brave"

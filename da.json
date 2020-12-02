@@ -5,7 +5,9 @@
     "min": "min",
     "by": "Af",
     "loading": "Loader",
-    "refresh": "Opdater"
+    "refresh": "Opdater",
+    "myRecipes": "Mine opskrifter",
+    "account": "Konto"
   },
   "recipeCollection": {
     "listTitle": "Vores opskrifter",
@@ -13,13 +15,16 @@
   },
   "recipe": {
     "title": "Din unikke opskrift",
-    "subTitle": "Gem opskriften ved at give den it like og e-mail den til en ven",
+    "subtitle": "Gem opskriften ved at give den it like og e-mail den til en ven",
     "changeButton": "Ændre ingredienser",
     "changeButtonDesktop": "Twist",
     "portion": "Portion",
     "portions": "Portioner",
     "grams": "gram",
     "showGrams": "Vis gram"
+  },
+  "recipeSteps": {
+    "instructions": "Instruktioner"
   },
   "progressBar": {
     "step1": "Vælg opskrift",
