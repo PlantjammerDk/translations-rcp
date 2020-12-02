@@ -2,11 +2,14 @@
   "general": {
     "goToRecipe": "See recipe",
     "home": "home",
-    "min": "min"
+    "min": "min",
+    "by": "By",
+    "loading": "Loading",
+    "refresh": "Refresh"
   },
   "recipeCollection": {
-    "test": "test"
-
+    "listTitle": "Our recipes",
+    "recipes": "recipes"
   },
   "recipe": {
     "title": "Your unique recipe",
