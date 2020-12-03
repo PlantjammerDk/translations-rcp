@@ -10,7 +10,7 @@
     "account": "Konto"
   },
   "recipeCollection": {
-    "listTitle": "Vores opskrifter",
+    "listtitle": "Vores opskrifter",
     "recipes": "opskrifter"
   },
   "recipe": {

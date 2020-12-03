@@ -15,7 +15,7 @@
   },
   "recipe": {
     "title": "Your unique recipe",
-    "subTitle": "Save it by giving it a like & e-mail it to someone",
+    "subtitle": "Save it by giving it a like & e-mail it to someone",
     "changeButton": "Change ingredients",
     "changeButtonDesktop": "Twist it",
     "portion": "Portion",

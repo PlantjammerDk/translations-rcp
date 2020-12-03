@@ -15,7 +15,7 @@
   },
   "recipe": {
     "title": "Dein individuelles Rezept",
-    "subTitle": "Klicke \"like\" um das Rezept zu speichern & teile es per E-Mail",
+    "subtitle": "Klicke \"like\" um das Rezept zu speichern & teile es per E-Mail",
     "changeButton": "Zutaten tauschen",
     "changeButtonDesktop": "Twist it!",
     "portion": "Portion",

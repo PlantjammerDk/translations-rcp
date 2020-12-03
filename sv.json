@@ -15,7 +15,7 @@
   },
   "recipe": {
     "title": "Ditt unika recept",
-    "subTitle": "Spara det genom att ge det en \"like\" och mejla det till dig själv eller en vän",
+    "subtitle": "Spara det genom att ge det en \"like\" och mejla det till dig själv eller en vän",
     "changeButton": "Ändra ingredienser",
     "changeButtonDesktop": "Twista det",
     "portion": "Portion",
