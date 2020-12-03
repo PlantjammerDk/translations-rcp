@@ -15,8 +15,8 @@
   },
   "recipe": {
     "title": "Din unikke opskrift",
-    "subtitle": "Gem opskriften ved at give den it like og e-mail den til en ven",
-    "changeButton": "Ændre ingredienser",
+    "subTitle": "Gem opskriften ved at give den et like og e-mail den til en ven",
+    "changeButton": "Skift ingredienser",
     "changeButtonDesktop": "Twist",
     "portion": "Portion",
     "portions": "Portioner",
@@ -28,7 +28,7 @@
   },
   "progressBar": {
     "step1": "Vælg opskrift",
-    "step2": "Ændre ingredienser",
+    "step2": "Skift ingredienser",
     "step3": "Se opskrift",
     "step4": "Gem & send"
   },
@@ -44,15 +44,15 @@
   "whatsSubstitutes": {
     "title": "Hvordan virker udskiftelige ingredienser?",
     "textStart": "Det er her magien sker",
-    "textRest": "og hvor de dynamiske opskrifter laves. Hvis du ikke har eller kan lide en af ingredienserne i opskrifter foreslår vi alternativer der også vil virke i din opskift. Alternativerne foreslås efter hvad der er det bedste match, men bare rolig vi foreslår kun ingredienser der kan bruges - det kalder vi fleksible ingredienser!",
+    "textRest": "og hvor de dynamiske opskrifter laves. Hvis du ikke har eller kan lide en af ingredienserne i opskriften, så foreslår vi alternativer, som vil passe til din opskrift. Alternativerne foreslås efter hvad der er det bedste match - men bare rolig, vi foreslår kun ingredienser der kan bruges. Det kalder vi fleksible ingredienser!",
     "example": "Eksempel: Et æg kan substitueres med",
     "back": "Tilbage",
     "ingredient1": "Chiafrø",
     "ingredient2": "Hørfrø"
   },
   "matchChip": {
-    "rating1": "God",
-    "rating2": "OK",
+    "rating1": "Fantastisk",
+    "rating2": "God",
     "rating3": "Modig"
   }
 }
