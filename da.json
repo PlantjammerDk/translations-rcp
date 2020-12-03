@@ -10,12 +10,12 @@
     "account": "Konto"
   },
   "recipeCollection": {
-    "listtitle": "Vores opskrifter",
+    "listTitle": "Vores opskrifter",
     "recipes": "opskrifter"
   },
   "recipe": {
     "title": "Din unikke opskrift",
-    "subTitle": "Gem opskriften ved at give den et like og e-mail den til en ven",
+    "subtitle": "Gem opskriften ved at give den et like og e-mail den til en ven",
     "changeButton": "Skift ingredienser",
     "changeButtonDesktop": "Twist",
     "portion": "Portion",
