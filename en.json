@@ -13,6 +13,18 @@
     "listTitle": "Our recipes",
     "recipes": "recipes"
   },
+  "myRecipes": {
+    "provideEmail": "You must provide an email address",
+    "checkRecipe": "You must check at least one recipe",
+    "emailSent": "Email has been sent to email address: ",
+    "emailError": "Email could not be sent, please try again.",
+    "emailPlaceholder": "enter your e-mail",
+    "noFavorites": "You haven't favorited any recipes from this brand yet, start favoriting recipes, to grow your list of favorites!",
+    "newRecipes": "New Recipes",
+    "saveRecipe": "Save recipe from extinction",
+    "getRecipes": "Get my recipes",
+    "consentText": "Yes, I would like to receive a monthly update with the most popular new recipes and food trends from this recipe page (optional)."
+  },
   "recipe": {
     "title": "Your unique recipe",
     "subtitle": "Save it by giving it a like & e-mail it to someone",
