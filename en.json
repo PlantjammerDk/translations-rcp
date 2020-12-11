@@ -25,6 +25,9 @@
     "getRecipes": "Get my recipes",
     "consentText": "Yes, I would like to receive a monthly update with the most popular new recipes and food trends from this recipe page (optional)."
   },
+  "unsubscribe": {
+    "unsubscribe": "You've successfully unsubscribed from the newsletter list"
+  },
   "recipe": {
     "title": "Your unique recipe",
     "subtitle": "Save it by giving it a like & e-mail it to someone",

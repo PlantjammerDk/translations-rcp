@@ -25,6 +25,9 @@
     "getRecipes": "Send dine opskrifter",
     "consentText": "Ja tak, jeg vil gerne modtage månedlige opdateringer med de mest populære opskrifter og nyeste mad-trends, fra denne opskriftsside (valgfri)."
   },
+  "unsubscribe": {
+    "unsubscribe": "You've successfully unsubscribed from the newsletter list"
+  },
   "recipe": {
     "title": "Din unikke opskrift",
     "subtitle": "Gem opskriften ved at give den et like og e-mail den til en ven",
