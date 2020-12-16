@@ -19,7 +19,7 @@
     "emailSent": "Email has been sent to email address: ",
     "emailError": "Email could not be sent, please try again.",
     "emailPlaceholder": "enter your e-mail",
-    "noFavorites": "You haven't favorited any recipes from this brand yet, start favoriting recipes, to grow your list of favorites!",
+    "noFavorites": "You have not added any recipes to your favorites yet.  Add your favorites here and send them to your e-mail!",
     "newRecipes": "New Recipes",
     "saveRecipe": "Save recipe from extinction",
     "getRecipes": "Get my recipes",
