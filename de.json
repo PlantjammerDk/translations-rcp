@@ -44,8 +44,7 @@
   "progressBar": {
     "step1": "Rezept Auswahl",
     "step2": "Zutaten anpassen",
-    "step3": "Rezept sehen",
-    "step4": "Speichern & Senden"
+    "step3": "Speichern & Senden"
   },
   "substitution": {
     "mandatory": "benötigt"

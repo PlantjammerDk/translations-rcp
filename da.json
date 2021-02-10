@@ -44,8 +44,7 @@
   "progressBar": {
     "step1": "Vælg opskrift",
     "step2": "Skift ingredienser",
-    "step3": "Se opskrift",
-    "step4": "Gem & send"
+    "step3": "Gem & send"
   },
   "substitution": {
     "mandatory": "påkrævet"

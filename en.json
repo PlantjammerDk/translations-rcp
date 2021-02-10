@@ -7,7 +7,8 @@
     "loading": "Loading",
     "refresh": "Refresh",
     "myRecipes": "My Recipes",
-    "account": "Account"
+    "account": "Account",
+    "back": "Back"
   },
   "recipeCollection": {
     "listTitle": "Our recipes",
@@ -31,6 +32,8 @@
   "recipe": {
     "title": "Your unique recipe",
     "subtitle": "Save the recipe by pressing the 'heart'",
+    "saveRecipe": "Save recipe",
+    "shareRecipe": "Share recipe",
     "changeButton": "Change ingredients",
     "changeButtonDesktop": "Twist it",
     "portion": "Portion",
@@ -44,15 +47,15 @@
   "progressBar": {
     "step1": "Select recipe",
     "step2": "Change ingredients",
-    "step3": "See recipe",
-    "step4": "Save & send"
+    "step3": "Save & send"
   },
   "substitution": {
     "mandatory": "mandatory"
   },
   "substitutions": {
     "title": "Flexible ingredients",
-    "subtitle": "Click an ingredient to change & see substitutes",
+    "subtitle": "Click an ingredient to change & see",
+    "substitutes": " substitutes",
     "subtitleButton": "What are substitutes?",
     "resetButton": "Reset ingredients"
   },

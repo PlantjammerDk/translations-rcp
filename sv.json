@@ -44,8 +44,7 @@
   "progressBar": {
     "step1": "Välj recept",
     "step2": "Ändra ingredienser",
-    "step3": "Se recept",
-    "step4": "Spara & skicka"
+    "step3": "Spara & skicka"
   },
   "substitution": {
     "mandatory": "obligatorisk"
