@@ -10,6 +10,9 @@
     "account": "Account",
     "back": "Back"
   },
+  "index": {
+    "description": "Login to manage your plant jammer recipes"
+  },
   "recipeCollection": {
     "listTitle": "Our recipes",
     "recipes": "recipes"
