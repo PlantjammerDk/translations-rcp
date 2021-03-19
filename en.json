@@ -28,6 +28,8 @@
     "newRecipes": "New Recipes",
     "saveRecipe": "Save recipe from extinction",
     "getRecipes": "Get my recipes",
+    "emailDescription": "Email me my recipe",
+    "sendRecipe": "Send my recipe",
     "consentText": "Yes, I would like to receive a monthly update with the most popular new recipes and food trends from this recipe page (optional).",
     "emailLabel": "Your email"
   },
