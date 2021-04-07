@@ -31,12 +31,16 @@
     "emailDescription": "Email me my recipe",
     "sendRecipe": "Send my recipe",
     "consentText": "Yes, I would like to receive a monthly update with the most popular new recipes and food trends from this recipe page (optional).",
-    "emailLabel": "Your email"
+    "emailLabel": "Your email",
+    "saveChildRecipeError": "Could not save your recipe"
   },
   "unsubscribe": {
     "unsubscribe": "You've successfully unsubscribed from the newsletter list"
   },
   "recipe": {
+    "twist": "Twist recipe",
+    "twistedRecipe": "Twisted recipe",
+    "substitutionTip": "Tip! Click an ingredient to see substitutes",
     "title": "Your unique recipe",
     "subtitle": "Save the recipe by pressing the 'heart'",
     "saveRecipe": "Save recipe",
