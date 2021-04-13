@@ -32,7 +32,8 @@
     "sendRecipe": "Send my recipe",
     "consentText": "Yes, I would like to receive a monthly update with the most popular new recipes and food trends from this recipe page (optional).",
     "emailLabel": "Your email",
-    "saveChildRecipeError": "Could not save your recipe"
+    "saveChildRecipeError": "Could not save your recipe",
+    "recipeUpdated": "Recipe saved"
   },
   "unsubscribe": {
     "unsubscribe": "You've successfully unsubscribed from the newsletter list"
