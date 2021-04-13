@@ -7,7 +7,11 @@
     "loading": "Lädt",
     "refresh": "Aktualisieren",
     "myRecipes": "Meine Rezepte",
-    "account": "Konto"
+    "account": "Konto",
+    "back": "Zurück"
+  },
+  "index": {
+    "description": "Login to manage your plant jammer recipes"
   },
   "recipeCollection": {
     "listTitle": "Unsere Rezepte",
@@ -15,6 +19,7 @@
   },
   "myRecipes": {
     "provideEmail": "You must provide an email address",
+    "invalidEmail": "Invalid email address",
     "checkRecipe": "You must check at least one recipe",
     "emailSent": "Email has been sent to email address: ",
     "emailError": "Email could not be sent, please try again.",
@@ -23,14 +28,24 @@
     "newRecipes": "New Recipes",
     "saveRecipe": "Save recipe from extinction",
     "getRecipes": "Get my recipes",
-    "consentText": "Yes, I would like to receive a monthly update with the most popular new recipes and food trends from this recipe page (optional)."
+    "emailDescription": "Email me my recipe",
+    "sendRecipe": "Send my recipe",
+    "consentText": "Yes, I would like to receive a monthly update with the most popular new recipes and food trends from this recipe page (optional).",
+    "emailLabel": "Your email",
+    "saveChildRecipeError": "Could not save your recipe",
+    "recipeUpdated": "Recipe saved"
   },
   "unsubscribe": {
     "unsubscribe": "You've successfully unsubscribed from the newsletter list"
   },
   "recipe": {
+    "twist": "Twist recipe",
+    "twistedRecipe": "Twisted recipe",
+    "substitutionTip": "Tip! Click an ingredient to see substitutes",
     "title": "Dein individuelles Rezept",
     "subtitle": "Klicke \"like\" um das Rezept zu speichern & teile es per E-Mail",
+    "saveRecipe": "Save recipe",
+    "shareRecipe": "Share recipe",
     "changeButton": "Zutaten tauschen",
     "changeButtonDesktop": "Twist it!",
     "portion": "Portion",
@@ -52,6 +67,7 @@
   "substitutions": {
     "title": "Austauschbare Zutaten",
     "subtitle": "Klicke auf eine Zutat um Alternativen zu wählen",
+    "substitutes": " substitutes",
     "subtitleButton": "Was sind austauschbare Zutaten?",
     "resetButton": "Zutaten zurückstellen"
   },

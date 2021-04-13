@@ -7,7 +7,11 @@
     "loading": "Loader",
     "refresh": "Opdater",
     "myRecipes": "Mine opskrifter",
-    "account": "Konto"
+    "account": "Konto",
+    "back": "Tilbage"
+  },
+  "index": {
+    "description": "Login for a lave plant jammer opskrifter"
   },
   "recipeCollection": {
     "listTitle": "Vores opskrifter",
@@ -15,6 +19,7 @@
   },
   "myRecipes": {
     "provideEmail": "Du skal udfylde en email adresse",
+    "invalidEmail": "Ugyldig email adresse",
     "checkRecipe": "Du skal krydste minimum en opskrift af",
     "emailSent": "Email er sendt til email adressen: ",
     "emailError": "Email kunne ikke sendes, prøv venligst igen.",
@@ -23,14 +28,24 @@
     "newRecipes": "Nye Opskrifter",
     "saveRecipe": "Gem dine opskrifter",
     "getRecipes": "Send dine opskrifter",
-    "consentText": "Ja tak, jeg vil gerne modtage månedlige opdateringer med de mest populære opskrifter og nyeste mad-trends, fra denne opskriftsside (valgfri)."
+    "emailDescription": "Email opskriften til mig",
+    "sendRecipe": "Send opskrift",
+    "consentText": "Ja tak, jeg vil gerne modtage månedlige opdateringer med de mest populære opskrifter og nyeste mad-trends, fra denne opskriftsside (valgfri).",
+    "emailLabel": "Din email adresse",
+    "saveChildRecipeError": "Kunne ikke gemme din opskrift",
+    "recipeUpdated": "Opskrift gemt"
   },
   "unsubscribe": {
     "unsubscribe": "You've successfully unsubscribed from the newsletter list"
   },
   "recipe": {
+    "twist": "Twist opskrift",
+    "twistedRecipe": "Opskrift twisted",
+    "substitutionTip": "Tip! Tryk på en ingredients for at se alternativer",
     "title": "Din unikke opskrift",
     "subtitle": "Gem opskriften ved at give den et like og e-mail den til en ven",
+    "saveRecipe": "Gem opskrift",
+    "shareRecipe": "Del opskrift",
     "changeButton": "Skift ingredienser",
     "changeButtonDesktop": "Twist",
     "portion": "Portion",
@@ -52,6 +67,7 @@
   "substitutions": {
     "title": "Fleksible ingredienser",
     "subtitle": "Klik på en ingrediens og se dens alternativer",
+    "substitutes": "alternativer",
     "subtitleButton": "Hvad er fleksible ingredienser?",
     "resetButton": "Nulstil ingredienser"
   },
